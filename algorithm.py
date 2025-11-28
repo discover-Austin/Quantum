@@ -2,6 +2,17 @@
 GENETIC QUANTUM LIFE FACTORY
 ============================
 
+Copyright (c) 2025 All Rights Reserved
+PROPRIETARY AND CONFIDENTIAL
+
+This file is part of the Genetic Quantum Life Factory proprietary software.
+Unauthorized copying, modification, distribution, or use of this file,
+via any medium, is strictly prohibited without express written permission.
+
+See LICENSE file for full terms and conditions.
+
+================================================================================
+
 An evolutionary quantum computing framework that creates, evolves, and optimizes
 quantum circuits using genetic algorithms. This system treats quantum circuits as
 living organisms that compete, mutate, reproduce, and evolve to solve complex
